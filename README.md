@@ -6,6 +6,7 @@
 <h4> <span> · </span> <a href="https://github.com/divyasrinaraharisetti/Twitter-Clone-engine/blob/master/README.md"> Documentation </a> <span> · </span> 
 
 </div>
+
 ### Implementation
 
 We had implemented all the functionalities for a twitter like engine in Part 1 which will be paired up with a WebSocket API in this part (Part 2). Some of the functionalities are mentioned below :
