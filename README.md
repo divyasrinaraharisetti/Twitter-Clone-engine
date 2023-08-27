@@ -1,7 +1,7 @@
 <div align='center'>
 
 <h1>Twitter Clone Engine</h1>
-<p>Created a twitter engine to concurrently handle at least 8,000 user requests like display news feeds, tweet, retweet, follow, etc. asynchronously</p>
+<p>Created a twitter engine to concurrently handle at least 10,000 user requests like display news feeds, tweet, retweet, follow, etc. asynchronously</p>
 
 <h4> <span> · </span> <a href="https://github.com/divyasrinaraharisetti/Twitter-Clone-engine/blob/master/README.md"> Documentation </a> <span> · </span> 
 
