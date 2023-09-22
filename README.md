@@ -150,13 +150,6 @@ make run
 ### Control Flow
 <img width="468" alt="image" src="https://github.com/Namita-Namita/DOSP_Twitter_clone/assets/31967922/cef5e492-7ba4-4679-b26b-290109bc572b">
 
-### Code Snippet
-<p><img width="989" alt="image" src="https://github.com/Namita-Namita/DOSP_Twitter_clone/assets/31967922/e44e5111-1bcf-41b1-8219-4982c7de9a56"></p>
-server
-<p><img width="632" alt="image" src="https://github.com/Namita-Namita/DOSP_Twitter_clone/assets/31967922/c2effb6c-2064-4666-8292-8f5ca655c024"></p>
-handler
-<p><img width="745" alt="image" src="https://github.com/Namita-Namita/DOSP_Twitter_clone/assets/31967922/b400eff7-482a-4a83-8efd-c8411958cdec"></p>
-
 ## Conclusions
 A websocket interface for a twitter like engine is successfully implemented with an interactive user interface through which users can perform functionalities like
 <br>• Tweet
