@@ -1,6 +1,6 @@
 # COP5615 - Distributed Operating Systems Principles - TwitterClone
 
-This project aims to create a Twitter-like engine and web user interface which supports functionalities like register, subscribe, tweet, re-tweet, and search queries based on hashtags and profiles.
+This project aims to create a Twitter-like engine and web user interface which concurrently handles at least 10,000 user requests to display functionalities like register, subscribe, tweet, re-tweet, and search queries based on hashtags and profiles.
 
 ## Project Objective
 
